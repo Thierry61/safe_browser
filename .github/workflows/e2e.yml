@@ -1,6 +1,6 @@
 name: E2E Tests
 
-on: [push, pull_request]
+#on: [push, pull_request]
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
